@@ -1,0 +1,5 @@
+﻿  Automats.cpp
+C:\Users\sorok\Downloads\AutomatConsole-main\Automats\EKNA.h(445,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sorok\Downloads\AutomatConsole-main\Automats\EKNA.h(375): warning C4715: EKNA::getAllStatesFromCurrent: значение возвращается не при всех путях выполнения
+bprinter.lib(table_printer.obj) : warning LNK4099: "bprinter.pdb" PDB не найден с "bprinter.lib(table_printer.obj)" или на "C:\Users\sorok\Downloads\AutomatConsole-main\x64\Debug\bprinter.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  Automats.vcxproj -> C:\Users\sorok\Downloads\AutomatConsole-main\x64\Debug\Automats.exe
